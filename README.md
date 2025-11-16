@@ -1,2 +1,2 @@
 # Scratch-Projects
-This repository features original games which were created in the official Scratch website.
+This repository features my original games which were created in the official Scratch website.
